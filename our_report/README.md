@@ -24,7 +24,7 @@ Reasearch:
 
 
 # 2nd Deliverable
-Information architecture: The look of the lamp will be like a normal lamp but the main difference will on the mechanism undeneath the lamp.
+Information architecture: The look of the lamp will be like a normal lamp but the main difference will be on the mechanism undeneath the lamp.
 
 User interaction: The led lamp will  start working when the room starts to become enough dark(the user will decide the ideal darkness when the lamp will turn on). The light color changes will be smooth so the users feel relaxed. Finally the leds will turn off automatically when the brightness of the room stars increasing.
 
