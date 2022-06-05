@@ -10,7 +10,7 @@
 
 
 # 1st Deliverable
-Brief:We are going to desing a led lamp that turns on the led lights when the room is dark enought.Also the led lights will change colors depending the mood.
+Brief:We are going to design a led lamp that turns on the led lights when the room is dark enought.Also the led lights will change colors depending the mood.
 
 Reasearch: 
 1)Analyse people:The main target group will be people that want an inconventional lamp.
