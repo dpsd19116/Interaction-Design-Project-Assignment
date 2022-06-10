@@ -10,28 +10,69 @@
 
 
 # 1st Deliverable
-Brief:We are going to design a led lamp that turns on the led lights when the room is dark enought.Also the led lights will change colors depending the mood.
+Brief:ο πρότζεκτ αποσκοπεί στην σχεδίαση
+ενός παιχνιδιού για παιδιά. Στόχο μας είναι η
+ευαισθητοποίηση των παιδιών προς τα ζώα και
+ειδικά στο τάισμα. Αυτό θα επιτυγχάνεται με την
+ενεργή συμμέτοχη των παιδιών στη διαδικασία του
+ταισματος αλληλεπιδρόντας με το μηχανημα.
 
 Reasearch: 
-1)Analyse people:The main target group will be people that want an inconventional lamp.
+1)Analyse people: Θα εστιάζουμε κυρίως σε παιδιά
+προσχολικής αγωγής. Ακόμη, για να γίνει πιο
+ενδιαφέρουσα -στα μάτια του παιδιού- όλη η διαδικασία,
+έχουμε επιλέξει το εξωτερικό να μοιάζει με ένα φιλόξενο
+σπιτάκι.
 
-2)Define activities: Before our project the users had to turn on the lights by themselfs. With our project the users dont have to worry about turning on the light because it will open automatically. Also the user will have the oportinity to select the color that they  want depending the situation.
+2)Define activities:   Πριν την διαδικασία του πρότζεκτ, θα
+έχει διεξαχθεί μία γενική εκδήλωση σχετικά με την σωστή
+διατροφή και τάισμα των μικρών ζώων. Η συγκεκριμένη
+εκδήλωση θα στοχεύει κυρίως σε άτομα μικρής ηλικίας
+αλλά μπορεί να έρθει και ο οποιοσδήποτε να
+παρακολουθήσει. Σκοπός της εκδήλωσης η διάδοση της
+γνώσης σχετικά με το διαδεδομένο πρόβλημα έλλειψης
+δημόσιας δωρεάν τροφής στα μικρά ζώα που ζουν
+ανάμεσα μας και προσπάθεια αλλαγής της
+συμπεριφοράς των πολιτών.
 
-3)Describe context: The context is going to be the living room, bedroom and any room that the user will want to relax.
+3)Describe context: Το αντικείμενο θα τοποθετηθεί στην
+πλατεία Μιαούλη το όποιο είναι ένα σύνηθες μέρος που
+σχετίζεται με αυτή την δραστηριότητα. Τα παιδιά θα
+μπορούν να ξεκινήσουν την διαδικασία εισέρχοντας στην
+πλατεία. 
 
-4)The technologies that we gonna use for the project will be  arduino uno , led light , resistor  , sensor , battery.
+
+4)Arduino Uno R3
+ ● Breadboard
+ ● usb
+ ● καλωδια
+ ● micro servo
+ ● push botton
 
 
 
 # 2nd Deliverable
-Information architecture: The look of the lamp will be like a normal lamp but the main difference will be on the mechanism undeneath the lamp.
+Information architecture: το τεχνουργημα θα εχει την οψη ενος μικρου σπιτιου οπου μεσα θα τοποθετητε ολος ο μηχανισμος του arduino.
 
-User interaction: The led lamp will  start working when the room starts to become dark enough(the user will decide the ideal darkness when the lamp will turn on). The light color changes will be smooth so the users feel relaxed. Finally the leds will turn off automatically when the brightness of the room stars increasing.
+User interaction: ο χρηστης θα παταει το κουμπι και θα δινεται η εντολη για να ανοιξει το πορτακι απ οπου θα πεφτει η τροφη.Πατοντας δευτερη φορα το κουμπι θα δινεται η εντολη για να κλισει το πορτακι.
 
-Interface design: The led lights will produce the light. The light dependent resistor will turn on/off the light when it is necessary. The resistor will   reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines. Finally a battery will power the system.
+Interface design: Tο κουμπι θα δινει την εντολη στο servo motor να γυρισει .
 
 
 # 3rd Deliverable 
+Scenarios:• Αφού έχουμε τοποθετήσει τον διαδραστικό σπιτάκι στην
+Πλατεία Μιαούλη.
+• Τα παιδιά καλούνται να προσεγγίσουν το σπιτάκι. Αφού
+πλησιάσουν το σπιτάκι , μπορούν να ξεκινήσουν να το
+χρησιμοποιούν.
+• Πατούν το κουμπί από το σπιτάκι όπου αναγράφεται η
+φράση ‘Push button’.
+• Εφόσον έχει ανoίξει, το πόρτακι του σπιτιού, το οποίο
+βρίσκεται στο κάτω μέρος ,ανοίγει και εμφανίζεται η
+επιβράβευση τους. Η επιβράβευση τους είναι σποράκια
+για να ταΐσουν εκείνη την ώρα τα περιστέρια της Πλατείας
+. Σημειώνεται πως πρέπει να ξαναπατήσουν το κουμπί για
+να κλείσει το πορτάκι.
 
 
 # Conclusions
