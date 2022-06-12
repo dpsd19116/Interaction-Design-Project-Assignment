@@ -74,6 +74,11 @@ Scenarios:• Αφού έχουμε τοποθετήσει τον διαδρασ
 . Σημειώνεται πως πρέπει να ξαναπατήσουν το κουμπί για
 να κλείσει το πορτάκι.
 
+![received_441184721163239](https://user-images.githubusercontent.com/101867020/173232484-ca53078f-7d83-4864-8590-b2009d4a5341.jpeg)
+
+![IMG20220611124514_01](https://user-images.githubusercontent.com/101867020/173232487-bbf951a4-7381-4d80-b639-3f04fef8609b.jpg)
+
+![IMG20220611124505_01](https://user-images.githubusercontent.com/101867020/173232488-e012c21d-0a52-46c4-adc8-76f04cfa5c8a.jpg)
 
 # Conclusions
 
